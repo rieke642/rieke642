@@ -18,5 +18,10 @@ Besides coding, I enjoy playing **bassoon**, **piano**, and **e-bass**.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238A32B9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8zenEwZnN3bXNkYnQ0MnlhbXJtNzNudHpmZTg3ZzY0ZGF3eGFqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVQ9qp42uN13oog0nI/giphy.webp" height="200" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJzNGRwNW05cDRjejA0cTJhY3NiemxoeThwd2E1dGYwNjdtZWs2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3CViADSOAHdK/giphy.webp" height="200" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNDdtbTU1dmgyaGticXo5NXp1MHYxNHBlb2tiMG9semUxYTY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s0k30jjI04THq/giphy.webp" height="200" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlzenFzeDR6a3BrN3dvZ3lucms0dTA1dHR6aTc5cHFiNGc1MWdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Px7FQJqhWTGaA/giphy.webp" height="200" />
+</div>
 
