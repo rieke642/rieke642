@@ -3,8 +3,7 @@
 ---
 
 ## 👀 About Me
-I'm studying Media Informatics and enjoy experimenting with my own app ideas, blending creativity with technology.
-Besides coding, I enjoy playing **bassoon**, **piano**, and **e-bass**.
+I'm studying Media Informatics and enjoy experimenting with my own app ideas.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,11 +11,9 @@ Besides coding, I enjoy playing **bassoon**, **piano**, and **e-bass**.
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238A32B9.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8zenEwZnN3bXNkYnQ0MnlhbXJtNzNudHpmZTg3ZzY0ZGF3eGFqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVQ9qp42uN13oog0nI/giphy.webp" height="200" />
