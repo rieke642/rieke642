@@ -1,6 +1,5 @@
-# 🦭 Hi, I’m @rieke642
+# Hi, I’m Rieke
 
-## 👀 About Me
 I'm studying Computer Science and enjoy experimenting with my own app ideas.
 
 ## 💻 Tech Stack
